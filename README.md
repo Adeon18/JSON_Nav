@@ -29,7 +29,6 @@ text
 truncated
 entities
 extended_entities
-source
 in_reply_to_status_id
 in_reply_to_status_id_str
 in_reply_to_user_id
@@ -56,14 +55,6 @@ Choose a key: id
 Exit? (y/n) y
 ```
 
-![MAP](Example.png)
-
-## Additional info
-
-The HTML map is generated in the same folder, where the script is run. It consists of 3 layers:
-* The main layer(map)
-* The marker layer(all the markers)
-* The population layer(Colors contries depending on population, idk why I added this)
 
 ## License
 
