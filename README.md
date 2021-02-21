@@ -11,6 +11,7 @@ git clone https://github.com/Adeon18/JSON_Nav
 ```
 
 ## Usage
+This is an example using data/user_timeline_obama.json file.
 
 ```bash
 json_nav/json_navigation.py
